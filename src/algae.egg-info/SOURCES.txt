@@ -1,0 +1,8 @@
+setup.py
+src/algaeset.py
+src/test_algaeset.py
+src/utils.py
+src/algae.egg-info/PKG-INFO
+src/algae.egg-info/SOURCES.txt
+src/algae.egg-info/dependency_links.txt
+src/algae.egg-info/top_level.txt
